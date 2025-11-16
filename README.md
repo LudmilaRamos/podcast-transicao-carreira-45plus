@@ -1,47 +1,65 @@
 # 🎙️ Podcast — Transição de Carreira após os 45 anos e os Impactos na Saúde Mental
 
-Este repositório contém o projeto prático de criação de um podcast utilizando técnicas de prompt engineering, geração de áudio com IA e edição básica.  
-O tema escolhido aborda os desafios emocionais enfrentados por pessoas que passam por uma transição de carreira após os 45 anos.
+Este repositório apresenta o projeto prático de criação de um podcast utilizando **IA generativa**, **engenharia de prompts**, **síntese de voz** e **versionamento no GitHub**.  
+O episódio aborda os desafios emocionais vivenciados por pessoas que enfrentam uma transição de carreira após os 45 anos, destacando como essa fase pode impactar a **saúde mental**, a autoconfiança e a percepção de valor pessoal.
 
 ---
 
 ## 📌 Sobre o Episódio
-O episódio explora:
-- Mudanças emocionais comuns durante a transição profissional madura  
-- Inseguranças e medos sobre recomeçar  
-- Como a pressão social influencia a saúde mental  
-- Reflexões sobre autovalorização, coragem e reinvenção  
 
-O conteúdo foi gerado com apoio de IA e posteriormente convertido em áudio através da ElevenLabs.
+Neste episódio são explorados:
+
+- As mudanças emocionais durante a transição profissional madura  
+- Medos comuns sobre recomeçar  
+- A pressão social e suas implicações no bem-estar emocional  
+- A importância da autovalorização  
+- O processo de reinvenção pessoal e profissional  
+
+O conteúdo textual foi criado com apoio do ChatGPT e posteriormente convertido em áudio usando **ElevenLabs**.
 
 ---
 
 ## 🔧 Ferramentas Utilizadas
-- **ChatGPT** — para criação de prompts, roteiro e ajustes de texto  
-- **ElevenLabs** — para geração da voz e áudio do episódio  
-- **GitHub** — para versionamento e entrega do projeto  
-- **Ferramenta de edição** — para pequenos ajustes finais no áudio (opcional)
+
+- **ChatGPT** — criação de prompts, ideias, roteiro e revisão  
+- **ElevenLabs** — geração da voz e do áudio final  
+- **GitHub** — versionamento e documentação do projeto  
+- **Ferramentas de edição** — para ajustes opcionais no áudio  
+- **Ferramenta de design** — criação da capa do podcast
 
 ---
 
-## 📂 Arquivos do Repositório
-- `audio-podcast.mp3` — Áudio final do episódio  
-- `roteiro.md` — Roteiro base utilizado para gravação  
-- `prompts.md` — Prompts usados durante o projeto  
-- `capa.png` — Imagem de capa do podcast  
-- `README.md` — Documentação do projeto  
+## 🚀 Como Reproduzir o Episódio
 
----
+Você pode:
 
-## 🚀 Como Reproduzir
-Basta baixar o arquivo de áudio ou clicar nele diretamente no GitHub.
+- Baixar o arquivo de áudio diretamente  
+- Ou ouvir no próprio GitHub clicando no arquivo `.mp3`  
 
 ---
 
 ## 🌐 Publicação
-Este projeto foi criado como parte do desafio da DIO e será apresentado também no LinkedIn.
+
+Este projeto foi desenvolvido como parte do **Desafio da DIO — Criando um Podcast com IA**.  
+O conteúdo também será compartilhado em meu **LinkedIn** como parte do meu portfólio prático sobre IA.
+
+---
+
+## 💡 Aprendizados do Projeto
+
+Durante este desafio, foi possível:
+
+- Utilizar IA para criação de conteúdo original  
+- Estruturar roteiros utilizando **engenharia de prompts**  
+- Gerar áudio realista com **ElevenLabs**  
+- Organizar, versionar e documentar o projeto utilizando GitHub  
+- Criar uma identidade visual simples para o podcast  
 
 ---
 
 ## 👩‍💻 Autora
-**Ludmila Almeida Ramos**
+
+**Ludmila Almeida Ramos**  
+Projeto criado para estudo, prática e fortalecimento de portfólio em IA e criação de conteúdo digital.
+
+
